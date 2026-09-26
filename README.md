@@ -2,9 +2,6 @@
 
 A single-file, self-contained personal portfolio website for **Vinayak Prajapati**, final-year Computer Science Engineering student (Sandip University, Nashik) seeking entry-level roles in **Data Analytics / Data Engineering**.
 
-## 🔗 Live Version
-Published artifact: https://claude.ai/artifact/9oKZo45aNy9WS4s9EVXhYk
-
 ## 📄 File
 - `portfolio.html` — the entire website (HTML, CSS, and JavaScript in one file, with all images, the résumé, and certificates embedded as base64 so no external files are needed).
 
